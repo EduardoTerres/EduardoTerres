@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a dedicated mathematician and software developer, now specializing in the field of Artificial Intelligence.
+Welcome to my GitHub profile! I'm a dedicated mathematician and software engineer, now specializing in the field of Artificial Intelligence.
 
 ## ✨ Featured projects
 Some of the key contributions that cover the whole spectrum of what I do are:
