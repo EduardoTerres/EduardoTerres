@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile! I'm a dedicated mathematician and software developer, now specializing in the field of Artificial Intelligence.
+
+## ✨ Featured projects
+Some of the key contributions that cover the whole spectrum of what I do are:
+
+- *Researched* the intersection of neural networks and finite element methods in the following paper [Can Neural Networks learn Finite Elements?](https://github.com/EduardoTerres/Can-Neural-Networks-learn-Finite-Elements).
+- Contributed to the *open source Machine Learning* project [Scikit-FDA](https://github.com/GAA-UAM/scikit-fda), by implementing, among others, a non-linear dimensionality reduction method for functional data.
+- Worked on other *programming projects* with friends like developing [Ad Astra C videogame](https://github.com/EduardoTerres/Ad-Astra-C-videogame) with a group of friends or a .
+
 <!--
 **EduardoTerres/EduardoTerres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
