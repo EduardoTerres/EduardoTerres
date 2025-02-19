@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a dedicated mathematician and software engineer, now specializing in the field of Artificial Intelligence.
 
+Older projects are coded and commented in spanish and newer in english.
+
 ## ✨ Featured projects
 Some of the key contributions that cover the whole spectrum of what I do are:
 
