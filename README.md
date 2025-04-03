@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a dedicated mathematician and AI engineer, everyday learning a bit more about Artificial Intelligence.
+Welcome to my GitHub profile! I'm a dedicated mathematician and AI engineer, learning a bit more everyday about Artificial Intelligence.
 
 ## ✨ Featured projects
 Some of the key contributions that cover the whole spectrum of what I do are:
