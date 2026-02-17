@@ -11,7 +11,12 @@ Some of the key contributions that cover the whole spectrum of what I do are:
 
 ## 📚 Academic Research
 - *Researched* the intersection of neural networks and finite element methods in the following paper [Can Neural Networks learn Finite Elements?](https://github.com/EduardoTerres/Can-Neural-Networks-learn-Finite-Elements).
-- *Develop* a novel symmetry-aware autoencoder framework for neural network canonicalization that leverages Scale Graph Metanetworks (ScaleGMNs) to achieve superior model merging by jointly accounting for permutation and scaling symmetries.
+- *Develop* a novel symmetry-aware autoencoder framework for neural network canonicalization that leverages Scale Graph Metanetworks (ScaleGMNs) to achieve superior model merging by jointly accounting for permutation and scaling symmetries. [Symmetry-Aware Graph Metanetwork Autoencoders: Model Merging through Parameter Canonicalization](https://arxiv.org/abs/2511.12601)
+
+### Upcoming research
+- In the field of zero shot composition for Reinforcement Learning (at the University of Amsterdam).
+- In the field of Riemannian Geometry and model merging (at the University of Amsterdam)..
+- In the field of Query Answering in Knowledge Graphs (at the Vrije Universiteit Amsterdam)..
 
 <!--
 **EduardoTerres/EduardoTerres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
