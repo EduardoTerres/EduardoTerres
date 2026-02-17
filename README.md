@@ -10,6 +10,8 @@ Some of the key contributions that cover the whole spectrum of what I do are:
 - Worked on other *programming projects*, like [Ad Astra C videogame](https://github.com/EduardoTerres/Ad-Astra-C-videogame) and [Crypto mining simulator](https://github.com/EduardoTerres/Mining-simulator), with friends.
 
 ## 📚 Academic Research
+The latest publications in which I participated are available in [Link to Scholar](https://scholar.google.com/citations?user=AQjRbqgAAAAJ&hl=es).
+Here are a few (as of February 2026):
 - *Researched* the intersection of neural networks and finite element methods in the following paper [Can Neural Networks learn Finite Elements?](https://github.com/EduardoTerres/Can-Neural-Networks-learn-Finite-Elements).
 - *Develop* a novel symmetry-aware autoencoder framework for neural network canonicalization that leverages Scale Graph Metanetworks (ScaleGMNs) to achieve superior model merging by jointly accounting for permutation and scaling symmetries. [Symmetry-Aware Graph Metanetwork Autoencoders: Model Merging through Parameter Canonicalization](https://arxiv.org/abs/2511.12601)
 
