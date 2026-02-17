@@ -5,9 +5,13 @@ Welcome to my GitHub profile! I'm a dedicated mathematician and AI engineer, lea
 ## ✨ Featured projects
 Some of the key contributions that cover the whole spectrum of what I do are:
 
-- *Researched* the intersection of neural networks and finite element methods in the following paper [Can Neural Networks learn Finite Elements?](https://github.com/EduardoTerres/Can-Neural-Networks-learn-Finite-Elements).
 - Contributed to the *open source Machine Learning* project [Scikit-FDA](https://github.com/GAA-UAM/scikit-fda) by implementing, among others, a non-linear dimensionality reduction method for functional data. I created this [website]( https://eduardoterres.github.io/Functional-Diffusion-Maps/) for an overview on how the method works.
 - Worked on other *programming projects*, like [Ad Astra C videogame](https://github.com/EduardoTerres/Ad-Astra-C-videogame) and [Crypto mining simulator](https://github.com/EduardoTerres/Mining-simulator), with friends.
+- Lead version 2 of the project [subwiz](https://github.com/hadriansecurity/subwiz), a lightweight GPT-based transformer model designed to discover and enumerate subdomains.
+
+## Academic Research
+- *Researched* the intersection of neural networks and finite element methods in the following paper [Can Neural Networks learn Finite Elements?](https://github.com/EduardoTerres/Can-Neural-Networks-learn-Finite-Elements).
+- *Develop* a novel symmetry-aware autoencoder framework for neural network canonicalization that leverages Scale Graph Metanetworks (ScaleGMNs) to achieve superior model merging by jointly accounting for permutation and scaling symmetries.
 
 <!--
 **EduardoTerres/EduardoTerres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
