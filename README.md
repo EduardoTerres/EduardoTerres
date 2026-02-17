@@ -15,8 +15,8 @@ Some of the key contributions that cover the whole spectrum of what I do are:
 
 ### Upcoming research
 - In the field of zero shot composition for Reinforcement Learning (at the University of Amsterdam).
-- In the field of Riemannian Geometry and model merging (at the University of Amsterdam)..
-- In the field of Query Answering in Knowledge Graphs (at the Vrije Universiteit Amsterdam)..
+- In the field of Riemannian Geometry and model merging (at the University of Amsterdam).
+- In the field of Query Answering in Knowledge Graphs (at the Vrije Universiteit Amsterdam).
 
 <!--
 **EduardoTerres/EduardoTerres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
