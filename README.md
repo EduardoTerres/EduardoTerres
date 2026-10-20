@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a dedicated mathematician and researcher in AI, learning a bit more everyday.
 
 ## ⚙️ Industry projects
-Some of the key contributions that cover the whole spectrum of what I do are (listed upper means newer):
+Some of the key contributions that cover the whole spectrum of what I do are (upper means latest):
 
 - Achieved TOP 1 (🏆) ranking in the Massive Multimodal Embedding Benchmark (MMEB-V3) with the Wianmu model suite [Wianmu-5B](https://huggingface.co/eduardo-terres2/Wianmu-5B). More to come here!
 - Lead version 2 of the project [subwiz](https://github.com/hadriansecurity/subwiz), a lightweight GPT-based transformer model designed to discover and enumerate subdomains.
@@ -11,7 +11,6 @@ Some of the key contributions that cover the whole spectrum of what I do are (li
 
 ## 📚 Academic Research
 The latest publications in which I participated are available in [Link to Scholar](https://scholar.google.com/citations?user=AQjRbqgAAAAJ&hl=es).
-Here are a few (as of February 2026):
 - *Propose* a Riemannian extension of the gradient-mismatch model-merging framework that replaces Euclidean task-vector arithmetic with logarithmic maps, parallel transport and a transported diagonal Fisher. Applied to Orthogonal Fine-Tuning on SO(n), it beats curvature-unaware OrthoMerge on Qwen 2.5 3B and Llama 3.1 8B adapters across 12 tasks. [Fisher-Weighted Riemannian Model Merging for Orthogonal Fine-Tuning](https://github.com/EduardoTerres/RiemannianFisherModelMerging)
 - *Formalize* a collapse in the Boolean Task Algebra for zero-shot task composition in reinforcement learning, showing that in deterministic MDPs every optimal extended Q-value function is determined by the universal and empty tasks, and propose a goal-set-based composition method that reduces learning and composition costs while preserving policy performance. [A Goal-Set Characterization of Task Composition in the Boolean Task Algebra](https://arxiv.org/abs/2606.04053)
 - *Researched* the intersection of neural networks and finite element methods in the following paper [Can Neural Networks learn Finite Elements?](https://github.com/EduardoTerres/Can-Neural-Networks-learn-Finite-Elements).
