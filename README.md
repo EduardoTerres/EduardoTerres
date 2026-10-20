@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated mathematician and researcher in AI, learning a bit more everyday.
 
-## ⚙️ Industry projects
+## ⚙️ Industry
 Some of the key contributions that cover the whole spectrum of what I do are (upper means latest):
 
 - Achieved TOP 1 (🏆) ranking in the Massive Multimodal Embedding Benchmark (MMEB-V3) with the Wianmu model suite [Wianmu-5B](https://huggingface.co/eduardo-terres2/Wianmu-5B). More to come here!
