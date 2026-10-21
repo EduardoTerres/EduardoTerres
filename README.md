@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a dedicated mathematician and researcher in AI
 ## ⚙️ Industry
 Some of the key contributions that cover the whole spectrum of what I do are (upper means latest):
 
-- Achieved TOP 1 (🏆) ranking in the Massive Multimodal Embedding Benchmark (MMEB-V3) with the Wianmu model suite [Wianmu-5B](https://huggingface.co/eduardo-terres2/Wianmu-5B). More to come here!
+- Achieved TOP 1 (🏆), as of 16th of October 2026, rank in the Massive Multimodal Embedding Benchmark (MMEB-V3) with the Wianmu model suite [Wianmu-5B](https://huggingface.co/eduardo-terres2/Wianmu-5B) and the subsequent [Sentio-9B model](https://huggingface.co/Dragos-Datcu/Sentio). More to come here!
 - Lead version 2 of the project [subwiz](https://github.com/hadriansecurity/subwiz), a lightweight GPT-based transformer model designed to discover and enumerate subdomains.
 - Contributed to the *open source Machine Learning* project [Scikit-FDA](https://github.com/GAA-UAM/scikit-fda) by implementing, among others, a non-linear dimensionality reduction method for functional data. I created this [website]( https://eduardoterres.github.io/Functional-Diffusion-Maps/) for an overview on how the method works.
 
